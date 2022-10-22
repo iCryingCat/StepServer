@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XTH3mjQT2O1zvHX72QkMqhcV8qzd33u3pAQGg+pm3W4rE0GENyk1ncO71xK/evPMCvgalFjF5MPycYPJ1VO4w==",
+  "success": true,
+  "projectFilePath": "E:\\study\\unity\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\24474\\.nuget\\packages\\protobuf-net\\3.1.22\\protobuf-net.3.1.22.nupkg.sha512",
+    "C:\\Users\\24474\\.nuget\\packages\\protobuf-net.core\\3.1.22\\protobuf-net.core.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

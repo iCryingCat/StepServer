@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GameServer/1.0.0": {
+        "dependencies": {
+          "protobuf-net": "3.1.22"
+        },
+        "runtime": {
+          "GameServer.dll": {}
+        }
+      },
+      "protobuf-net/3.1.22": {
+        "dependencies": {
+          "protobuf-net.Core": "3.1.22"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.22.19916"
+          }
+        }
+      },
+      "protobuf-net.Core/3.1.22": {
+        "runtime": {
+          "lib/net6.0/protobuf-net.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.22.19916"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "protobuf-net/3.1.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wf0E7Y4az3U/9lrmOo95efX4/SmiBYVhgevvVtOQs2y7LFxdhRIoRQVfz3URqS6XuQeyDx8noE65rqC+mpnE1w==",
+      "path": "protobuf-net/3.1.22",
+      "hashPath": "protobuf-net.3.1.22.nupkg.sha512"
+    },
+    "protobuf-net.Core/3.1.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-82iIFBuQW2K8kixHQ1Eo6qWfnztNYRGU6OGqGmq7c0r8T9X9y9j79SHQSeI/hK3gK6EvHbYMfeGhpRJzA/zv1Q==",
+      "path": "protobuf-net.core/3.1.22",
+      "hashPath": "protobuf-net.core.3.1.22.nupkg.sha512"
+    }
+  }
+}
